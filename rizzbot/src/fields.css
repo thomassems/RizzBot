@@ -1,0 +1,67 @@
+.random {
+    border: 2px solid aqua;
+    background-color: white;
+    color: aqua;
+}
+
+.random:hover {
+    background-color: #F16666;
+    color: aqua;
+    border: 2px solid aqua;
+}
+
+.fields {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #F16666;
+    margin-top: 50px;
+}
+
+.user-input {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: space-between;
+}
+
+label {
+    margin: 10px;
+}
+
+input {
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+::placeholder {
+    color: white;
+}
+
+.button {
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+}
+
+.generator {
+    color: #F16666;
+    background-color: white;
+    border: 1px solid white;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.generator:hover {
+    background-color: #F16666;
+    color: white;
+}
+
+.random:hover {
+
+}

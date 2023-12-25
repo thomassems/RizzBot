@@ -1,0 +1,9 @@
+* {
+  text-align: center;
+  background-color: rgb(241, 102, 102);
+  color: white;
+}
+
+.logo-container {
+  height: 100px;
+}
