@@ -53,6 +53,12 @@ input {
     border: 1px solid white;
 }
 
+.upload {
+    color: white;
+    background-color: #F16666;
+    border: 1px solid white;
+}
+
 .button:hover {
     cursor: pointer;
 }
